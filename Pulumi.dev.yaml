@@ -1,0 +1,5 @@
+encryptionsalt: v1:a3Ae2YHG6As=:v1:+JfI1WzBTgUB7Fv7:mE0EljgINFhI2bvFPDJVS30J7e8B+A==
+config:
+  aws:region: us-east-1
+  opi-demo:secretMessage:
+    secure: v1:vWzZaipLykeeWRn3:7gjSn9At4bfkvcBw7NFYiLF84KuxTRQWhoZcPkpkdFTELNvXB2g=
